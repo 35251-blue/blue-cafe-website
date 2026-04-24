@@ -1,0 +1,24 @@
+# Project TODO
+
+- [x] Add favicon to website for browser tabs and Google search results
+- [x] Animate marquee banner to scroll continuously
+- [x] Slow down marquee animation speed
+- [x] Change footer location from "inside Superblue" to "right next to Superblue"
+- [x] Update footer hours according to user's photo
+- [x] Change email to info@bluecafemiami.com
+- [x] Slow down marquee animation further
+- [x] Update Best Sellers prices: Strawberry Matcha $9, Ice Latte $8, Cappuccino $8, Cherry Burrata $18
+- [x] Make footer hours text more compact to fit on single lines
+- [x] Replace burrata salad image with more appealing version
+- [x] Connect event inquiry form to send emails to info@bluecafemiami.com
+- [x] Investigate and fix event inquiry email notifications not reaching info@bluecafemiami.com
+- [x] Implement Resend email service to send event inquiries directly to info@bluecafemiami.com
+- [x] Make footer email address clickable with mailto link
+- [x] Add Google Analytics tracking code (G-C0DTGS0EB6) to website
+- [x] Connect newsletter form "Stay in the Loop" with Brevo API
+- [x] Create dedicated newsletter signup landing page for Instagram story clicks (/newsletter route)
+- [x] Add Careers link to footer
+- [x] Create careers landing page with job listing (Cashier position)
+- [x] Build job application form with resume upload and work experience fields
+- [x] Implement email notifications for job applications to info@bluecafemiami.com
+- [x] Generate Instagram story graphic for hiring announcement
